@@ -1,0 +1,4 @@
+com\quinnox\service\ApplicationStarter.class
+com\quinnox\service\entity\DGUser.class
+com\quinnox\service\serviceImpl\DGUserService.class
+com\quinnox\service\repository\UserRepository.class
